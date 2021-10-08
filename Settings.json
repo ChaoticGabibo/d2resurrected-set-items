@@ -31,7 +31,7 @@
     "Safe Screen Percent": 100,
     "Graphics Mode": 0,
     "NVIDIA DLSS": 0,
-    "AutoMapMode": 0,
+    "AutoMapMode": 1,
     "AutoMapFade": 3,
     "AutoMapFadeAllCustomOpacity": 50,
     "AutoMap Centers": 1,
