@@ -17,6 +17,7 @@
     "Auto Gold Enabled": 1,
     "Auto Party Invite": 1,
     "AutoMap Centers": 1,
+    "AutoMap Left": 1,
     "AutoMap Party": 1,
     "AutoMap Party Names": 1,
     "AutoMapFade": 3,
@@ -92,12 +93,11 @@
     "Texture Quality": 5,
     "Transparency Quality": 5,
     "Tutorial": 3,
-    "User Last Online": 1636775260680791700,
+    "User Last Online": 1638663453234300700,
     "VSync": 1,
     "Verb Disable": 0,
     "Vfx Lighting Quality": 3,
     "VoiceLanguage": 0,
     "Wide Item Drop Enabled": 1,
-    "Window Mode": 1,
-    "AutoMap Left": 1
+    "Window Mode": 1
 }
